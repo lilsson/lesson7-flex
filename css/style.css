@@ -7,6 +7,7 @@
 	width: 100%;
 	height: 900px;
 	position: relative;
+	
 }
 
 .logo2{
@@ -33,12 +34,68 @@
 	margin-left: 30px;
 }
 
+.ipsum{
+	font-size: 100px;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 200px;
+}
+
 /*section*/
 
 .ending{
-	width: 1280px;
+	width: 1171px;
 	height: 601px;
+	display: flex;
+	margin: 0 auto;
 	
+
+}
+.done{
+	
+	flex-direction: column;
+}
+.sit{
+	/*display: flex;
+	flex-direction: column;*/
+}
+
+.elit{
+	 font-size: 50px;
+	 margin-bottom: 15px;
+
+
+}
+.luctus{
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.blue{
+	background-color: #325DFF;
+	border-radius: 90px;
+	width: 300px;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.kok{
+	font-size: 15px;
+	text-transform: uppercase;
+	color: #fff
+}
+.five{
+	background-image: url("../images/five.png");
+	height: 601px;
+	width: 640px;
+
+}
+.done1{
+	display: flex;
 }
 
 /*section2*/
